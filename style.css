@@ -88,11 +88,13 @@ figcaption, label, input, small {
 
 
 address {
-    background-color:#ffffff;
+    background-color:#000000;
+    color:#ffffff;
 }
 
 footer {
-    background-color:#ffffff;
+    background-color:#000000;
+    color:#ffffff;
 }
 
 @media screen and (max-width:834px) {

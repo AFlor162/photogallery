@@ -60,6 +60,33 @@ header {
     background-color: #ffffff;
 }
 
+header h1 {
+    color:#007d7b;
+    font-size:3em;
+}
+
+h2 {
+    font-size: 2em;
+}
+
+nav {
+    background-color: #000000;
+    color:#ffffff;
+}
+
+nav a {
+    font-size: 1.5em;
+}
+
+p {
+    font-size: 1.25em;
+}
+
+figcaption, label, input, small {
+    font-size: 1em;
+}
+
+
 address {
     background-color:#ffffff;
 }
@@ -70,6 +97,37 @@ footer {
 
 @media screen and (max-width:834px) {
 
+html {
+    width:485px;
+    margin:auto;
+}
 
+header h1 {
+    margin-left:70px;
+    padding-bottom: 15px;
+}
+
+nav h2 {
+    visibility: hidden;
+}
+
+li:last-child {
+    position:fixed;
+    bottom:0;
+    right:0;
+
+}
+
+nav ul {
+    display:flex;
+    justify-content: center;
+    margin-bottom: 25px;
+}
+
+nav a {
+    text-decoration: none;
+    color:#ffffff;
+    padding: 25px;
+}
 
 }

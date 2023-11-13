@@ -170,6 +170,12 @@ nav a {
 #photogallery img {
     display:grid;
     padding-left: 32px;
+    padding-bottom:25px;
+}
+
+#photogallery figcaption {
+    position:absolute;
+    padding-left:150px;
 }
 
 }

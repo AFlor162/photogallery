@@ -173,6 +173,8 @@ nav a {
     padding-bottom:25px;
 }
 
+/*Photo Positioning*/
+
 #photogallery figcaption {
     position:absolute;
 }
@@ -205,5 +207,35 @@ figcaption:nth-of-type(5){
     color:#000000;
     left:43%;
     top:290%;
+}
+
+figcaption:nth-of-type(6){
+    color:#000000;
+    left:43%;
+    top:467%;
+}
+
+figcaption:nth-of-type(7){
+    color:#ffffff;
+    left:40%;
+    top:510%;
+}
+
+figcaption:nth-of-type(8){
+    color:#000000;
+    left:38%;
+    top:519%;
+}
+
+figcaption:nth-of-type(9){
+    color:#000000;
+    left:41%;
+    top:562%;
+}
+
+figcaption:nth-of-type(10){
+    color:#000000;
+    left:45%;
+    top:606%;
 }
 }

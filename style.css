@@ -203,6 +203,54 @@ figure:nth-of-type(4) figcaption {
     left: 44%;
 }
 
+figure:nth-of-type(5) figcaption {
+    color:#000000;
+    top:290%;
+    left: 43%;
+}
+
+figure:nth-of-type(6) figcaption {
+    color:#000000;
+    top:465%;
+    left: 44%;
+}
+
+figure:nth-of-type(7) figcaption {
+    color:#ffffff;
+    top:508%;
+    left: 41%;
+}
+
+figure:nth-of-type(8) figcaption {
+    color:#000000;
+    top:518%;
+    left: 38%;
+}
+
+figure:nth-of-type(9) figcaption {
+    color:#000000;
+    top:561%;
+    left: 42%;
+}
+
+figure:nth-of-type(10) figcaption {
+    color:#000000;
+    top:604%;
+    left: 45%;
+}
+
+figure:nth-of-type(11) figcaption {
+    color:#000000;
+    top:647%;
+    left: 45%;
+}
+
+figure:nth-of-type(11) figcaption {
+    color:#ffffff;
+    top:690%;
+    left: 45%;
+}
+
 /*Photogallery ends*/
 address h2 {
     display:flex;

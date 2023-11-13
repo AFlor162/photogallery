@@ -252,9 +252,22 @@ figcaption:nth-of-type(12){
 }
 
 /*Photogallery ends*/
-
-form h2 {
+address h2 {
     display:flex;
     justify-content: center;
+    padding: 20px;
+}
+
+address p {
+    display:flex;
+    justify-content: center;
+}
+
+form h2 {
+    visibility: hidden;
+}
+
+form input {
+    color:#007d7b;
 }
 }

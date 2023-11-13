@@ -238,4 +238,23 @@ figcaption:nth-of-type(10){
     left:45%;
     top:606%;
 }
+
+figcaption:nth-of-type(11){
+    color:#000000;
+    left:44%;
+    top:650%;
+}
+
+figcaption:nth-of-type(12){
+    color:#ffffff;
+    left:42%;
+    top:693%;
+}
+
+/*Photogallery ends*/
+
+form h2 {
+    display:flex;
+    justify-content: center;
+}
 }

@@ -132,4 +132,44 @@ nav a {
     padding: 25px;
 }
 
+#about h2 {
+    display: flex;
+    justify-content: center;
+    font-weight: bold;
+    padding: 5px;
+}
+
+#about p:first-of-type {
+    padding: 5px;
+    padding-bottom:20px;
+}
+
+#about p:nth-of-type(2) {
+    padding: 5px;
+    padding-bottom: 25px;
+}
+
+#gallery h2 {
+    display: flex;
+    justify-content: center;
+    font-weight: bold;
+    padding: 5px;
+    padding-bottom: 20px;
+}
+
+#gallery p {
+    padding: 5px;
+    padding-top: 20px;
+}
+
+#photogallery h2 {
+    position:absolute;
+    visibility: hidden;
+}
+
+#photogallery img {
+    display:grid;
+    padding-left: 32px;
+}
+
 }

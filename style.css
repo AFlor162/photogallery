@@ -175,7 +175,35 @@ nav a {
 
 #photogallery figcaption {
     position:absolute;
-    padding-left:150px;
 }
 
+figcaption:nth-of-type(1){
+    color:#ffffff;
+    left:45%;
+    top:102%;
+}
+
+figcaption:nth-of-type(2){
+    color:#ffffff;
+    left:42%;
+    top:110%;
+}
+
+figcaption:nth-of-type(3){
+    color:#ffffff;
+    left:45%;
+    top:188%;
+}
+
+figcaption:nth-of-type(4){
+    color:#000000;
+    left:46%;
+    top:197%;
+}
+
+figcaption:nth-of-type(5){
+    color:#000000;
+    left:43%;
+    top:290%;
+}
 }

@@ -589,6 +589,7 @@ footer {
     #photogallery {
         display:grid;
         grid-template-columns: 1fr 1fr;
+        margin:5px;
     }
 
     #photogallery img {
@@ -600,84 +601,96 @@ footer {
     }
     figure:nth-of-type(1) figcaption {
         color:#ffffff;
-        left:19%;
-        top:77%;
+        top: 94%;
+        left: 24%;
+ 
 
     }
     
     figure:nth-of-type(2) figcaption {
         color:#ffffff;
-        left:46%;
-        top:49%;
+        left:66%;
+        top:60%;
+
 
     }
     
     figure:nth-of-type(3) figcaption {
         color:#ffffff;
-        left:76%;
-        top:77%;
+        left: 24%;
+        top: 135%;
+
 
     }
     
     figure:nth-of-type(4) figcaption {
         color:#000000;
-        top: 83%;
-        left:19%;
+        left:66%;
+        top: 102%;
+
 
     }
     
     figure:nth-of-type(5) figcaption {
         color:#000000;
-        top: 83%;
-        left:46%;
+        left: 24%;
+        top: 144%;
+
 
     }
     
     figure:nth-of-type(6) figcaption {
         color:#000000;
-        left:77%;
-        top:150%;
+        left:66%;
+        top: 276%;
+
 
     }
     
     figure:nth-of-type(7) figcaption {
         color:#ffffff;
-        left:17%;
-        top:183%;
+        left: 24%;
+        top:316%;
+
 
     }
     
     figure:nth-of-type(8) figcaption {
         color:#000000;
-        left:44%;
-        top:156%;
+        left:64%;
+        top:284%;
+
 
     }
     
     figure:nth-of-type(9) figcaption {
         color:#000000;
-        left:75%;
-        top:156%;
+        left: 24%;
+        top:326%;
+
 
     }
     
     figure:nth-of-type(10) figcaption {
         color:#000000;
-        left:19%;
-        top:190%;
+        left:66%;
+        top:326%;
+
     }
     
     figure:nth-of-type(11) figcaption {
         color:#000000;
-        left:47%;
-        top:190%;
+        left: 24%;
+        top:366%;
+
 
     }
     
     figure:nth-of-type(12) figcaption {
         color:#ffffff;
-        left:75%;
-        top:190%;
+        left:66%;
+        top:366%;
+
 
     }
     /*photogallery positioning end*/
